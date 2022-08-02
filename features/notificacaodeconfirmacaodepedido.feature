@@ -18,3 +18,13 @@ Feature: Notificação de Confirmacao de Pedido
         Given 
         When 
         Then "Modificacao 1 - Roteiro de Gerencia de Configuracao"
+
+    Scenario: fourth scenario...
+        Given 
+        When 
+        Then 
+
+    Scenario: fifth scenario...
+        Given 
+        When 
+        Then 
