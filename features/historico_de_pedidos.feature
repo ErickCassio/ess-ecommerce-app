@@ -30,4 +30,10 @@ Feature: Histórico de pedidos
         When 
         Then 
 		And
+	
+	Scenario: Cenário (Questão 7 letra F) (preencher dps)...
+        Given 
+        When 
+        Then 
+		And
 		
