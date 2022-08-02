@@ -35,5 +35,3 @@ Feature: Histórico de pedidos
         Given 
         When 
         Then 
-		And
-		
