@@ -5,3 +5,6 @@ Feature: Notificação de Confirmacao de Pedido
     So I can have a guarantee that my products will be delivered 
 
     Scenario: first scenario...
+        Given 
+        When 
+        Then 
