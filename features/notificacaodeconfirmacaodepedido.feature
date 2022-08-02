@@ -13,3 +13,8 @@ Feature: Notificação de Confirmacao de Pedido
         Given 
         When 
         Then 
+    
+    Scenario: third scenario...
+        Given 
+        When 
+        Then 
