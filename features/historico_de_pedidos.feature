@@ -1,16 +1,26 @@
-Feature: Historico de pedidos
+Feature: Histórico de pedidos
 
-    Scenario: first scenario...
+    Scenario: Cenário de sucesso (preencher dps)...
         Given 
         When 
         Then 
 
-    Scenario: second scenario...
+    Scenario: Cenário de sucesso (preencher dps)...
         Given 
         When 
         Then 
     
-    Scenario: third scenario...
+    Scenario: Cenário de sucesso (preencher dps)...
+        Given 
+        When 
+        Then 
+		
+	Scenario: Cenário de falha (preencher dps)...
+        Given 
+        When 
+        Then 
+		
+	Scenario: Cenário de falha (preencher dps)...
         Given 
         When 
         Then 
