@@ -1,3 +1,7 @@
-Feature: Notificacao de Confirmacao de Pedido
+Feature: Notificação de Confirmacao de Pedido
 
-    Feature Description
+    As a client
+    I want to recieve a confirmation message of my request
+    So I can have a guarantee that my products will be delivered 
+
+    Scenario: first scenario...
