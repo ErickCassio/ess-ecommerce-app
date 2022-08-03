@@ -27,4 +27,4 @@ Feature: Notificação de Confirmacao de Pedido
     Scenario: fifth scenario... (Modificacao para a branch fixDesenvolvimento)
         Given 
         When 
-        Then 
+        Then "Alteração para Commit de teste 3"
