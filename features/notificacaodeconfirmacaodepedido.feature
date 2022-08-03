@@ -29,4 +29,6 @@ Feature: Notificação de Confirmacao de Pedido
         When "Alteracao para Commit de teste 1"
         Then "Alteração para Commit de teste 2"
 
-        "Alteracao de teste 3"
+    "Alteracao de teste 3"
+    "Alteracao commit 1"
+    "Alteracao commit 2"
