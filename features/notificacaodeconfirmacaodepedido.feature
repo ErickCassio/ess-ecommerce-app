@@ -17,18 +17,16 @@ Feature: Notificação de Confirmacao de Pedido
     Scenario: third scenario...
         Given 
         When 
-        Then "Modificacao 1 - Roteiro de Gerencia de Configuracao"
+        Then 
 
     Scenario: fourth scenario...
         Given 
         When 
         Then 
 
-    Scenario: fifth scenario... (Modificacao para a branch fixDesenvolvimento)
+    Scenario: fifth scenario...
         Given 
-        When 
-        Then 
-    
+        When "Alteracao para Commit de teste 1"
+        Then "Alteração para Commit de teste 2"
 
-
-    "Alteração commit 3"
+        "Alteracao de teste 3"
