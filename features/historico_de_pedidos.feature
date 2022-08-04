@@ -37,3 +37,4 @@ Feature: Histórico de pedidos
         Then 
 	
 	//Ajuste de cenário questão 8
+	//Ajuste Questão 14 -1
