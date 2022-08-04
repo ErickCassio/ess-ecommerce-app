@@ -35,3 +35,5 @@ Feature: Histórico de pedidos
         Given 
         When 
         Then 
+	
+	//Ajuste de cenário questão 8
