@@ -29,9 +29,9 @@ Feature: Histórico de pedidos
         Given 
         When 
         Then 
-	And
+		And
 	
-	Scenario: Cenário (Questão 7 letra F) (preencher dps)...
+	Scenario: Cenário (Questão 7 letra F) (preencher dps)... //Ajuste Questão 14 na master
         Given 
         When 
         Then 
